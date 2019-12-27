@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\C++\seidel_method\seidel_method\main.cpp(30,19): warning C4305:  инициализация: усечение из "double" в "float"
+  seidel_method.vcxproj -> D:\C++\seidel_method\Debug\seidel_method.exe

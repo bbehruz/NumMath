@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\C++\IterationMethod\IterationMethod\main.cpp(30,19): warning C4305:  инициализация: усечение из "double" в "float"
+  IterationMethod.vcxproj -> D:\C++\IterationMethod\Debug\IterationMethod.exe
